@@ -12,4 +12,4 @@ This repository contains programs and experiments for the **Computer Networks La
 - Routing Algorithms
 - Packet Tracer Simulations
 
-#### Tasks were performed using Cisco Packet Tracer (Optional)
+#### Tasks were performed using Cisco Packet Tracer
